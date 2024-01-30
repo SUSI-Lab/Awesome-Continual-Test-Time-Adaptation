@@ -8,7 +8,8 @@
 (AAAI 23)Decorate the Newcomers:Visual Domain Prompt for Continual Test Time Adaptation  
 (CVPR 23)Robust Mean Teacher for Continual and Gradual Test-Time Adaptation  
 (IJCAI 23)Exploring Safety Supervision for Continual Test-time Domain Adaptation  
-  
+
+(arXiv 22)Introducing Intermediate Domains for Effective Self-Training during Test-Time
 (arXiv 23)Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation  
 (arXiv 23)ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation  
 (arXiv 23)Distribution-Aware Continual Test Time Adaptation for Semantic Segmentation  
