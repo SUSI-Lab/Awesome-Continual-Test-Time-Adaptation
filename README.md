@@ -9,7 +9,7 @@
 (CVPR 23)Robust Mean Teacher for Continual and Gradual Test-Time Adaptation  [[paper](https://arxiv.org/pdf/2211.13081.pdf)][[code](https://github.com/mariodoebler/test-time-adaptation)]  
 (IJCAI 23)Exploring Safety Supervision for Continual Test-time Domain Adaptation  [[paper](https://www.ijcai.org/proceedings/2023/0183.pdf)]  
  
-(arXiv 23)Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation  [[paper]()][[code]()]  
-(arXiv 23)ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation  [[paper]()][[code]()]  
-(arXiv 23)Distribution-Aware Continual Test Time Adaptation for Semantic Segmentation  [[paper]()][[code]()]  
-(arXiv 23)Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation  [[paper]()][[code]()]  
+(arXiv 23)Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation  [[paper](https://arxiv.org/pdf/2303.10457.pdf)]  
+(arXiv 23)ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation  [[paper](https://arxiv.org/pdf/2306.04344.pdf)][[code](https://github.com/Yangsenqiao/vida)]  
+(arXiv 23)Distribution-Aware Continual Test Time Adaptation for Semantic Segmentation  [[paper](https://arxiv.org/pdf/2309.13604.pdf)][[code](https://arxiv.org/pdf/2309.13604.pdf)]  
+(arXiv 23)Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation  [[paper](https://arxiv.org/pdf/2311.18270.pdf)]  
