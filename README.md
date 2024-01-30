@@ -13,3 +13,4 @@
 (arXiv 23)ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation  [[paper](https://arxiv.org/pdf/2306.04344.pdf)][[code](https://github.com/Yangsenqiao/vida)]  
 (arXiv 23)Distribution-Aware Continual Test Time Adaptation for Semantic Segmentation  [[paper](https://arxiv.org/pdf/2309.13604.pdf)][[code](https://arxiv.org/pdf/2309.13604.pdf)]  
 (arXiv 23)Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation  [[paper](https://arxiv.org/pdf/2311.18270.pdf)]  
+(arXiv 23)Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation  [[paper](https://arxiv.org/pdf/2312.12480.pdf)]  
