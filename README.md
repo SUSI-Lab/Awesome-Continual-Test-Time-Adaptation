@@ -1,7 +1,7 @@
 # Awesome-Continual-Test-Time-Adaptation
 **This repository organizes papers related to the CTTA(Continual-Test-Time-Adaptation).**
 
-(CVPR 22)Continual Test-Time Domain Adaptation  
+(CVPR 22)Continual Test-Time Domain Adaptation[paper]("https://arxiv.org/pdf/2203.13591.pdf")[code]  
 (NeurIPS 22)NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation  
 (CVPR 23)EcoTTA: Memory-Efficient Continual Test-Time Adaptation via Self-Distilled Regularization  
 (CVPR 23)A_Probabilistic_Framework_for_Lifelong_Test-Time_Adaptation_CVPR_2023_paper  
