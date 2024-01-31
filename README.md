@@ -1,5 +1,5 @@
-# Awesome-Continual-Test-Time-Adaptation
-**This repository organizes papers related to the CTTA(Continual-Test-Time-Adaptation).**
+# Awesome Continual Test-Time Adaptation
+**This repository organizes papers related to the CTTA(Continual-Test-Time-Adaptation) by SUSI-Lab.**
 
 (CVPR 22)Continual Test-Time Domain Adaptation [[paper](https://arxiv.org/pdf/2203.13591.pdf)][[code](https://github.com/qinenergy/cotta)]  
 (NeurIPS 22)NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation  [[paper](https://arxiv.org/pdf/2208.05117.pdf)][[code](https://github.com/TaesikGong/NOTE)]  
