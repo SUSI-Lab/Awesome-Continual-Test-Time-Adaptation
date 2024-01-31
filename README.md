@@ -25,6 +25,6 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SUSI-Lab.Awesome-Continual-Test-Time-Adaptation&left_color=green&right_color=red)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SUSI-Lab.750121247&left_color=green&right_color=red)
 
 </div>
