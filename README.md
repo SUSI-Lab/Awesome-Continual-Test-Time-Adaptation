@@ -22,3 +22,9 @@
 
 (**CVPR 22**) Continual Test-Time Domain Adaptation [[paper](https://arxiv.org/pdf/2203.13591.pdf)][[code](https://github.com/qinenergy/cotta)]  
 (**NeurIPS 22**) NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation  [[paper](https://arxiv.org/pdf/2208.05117.pdf)][[code](https://github.com/TaesikGong/NOTE)]  
+
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SUSI-Lab.Awesome-Continual-Test-Time-Adaptation&left_color=green&right_color=red)
+
+</div>
