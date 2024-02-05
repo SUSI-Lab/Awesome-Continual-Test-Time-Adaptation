@@ -2,11 +2,29 @@
 **This repository organizes papers related to the CTTA(Continual-Test-Time-Adaptation) by SUSI-Lab.**
 
 
+## 2024
+
+(**WACV 24**) Continual Test-time Domain Adaptation via Dynamic Sample Selection [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Continual_Test-Time_Domain_Adaptation_via_Dynamic_Sample_Selection_WACV_2024_paper.pdf)]  
+(**WACV 24**) Effective Restoration of Source Knowledge in Continual Test Time Adaptation [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Niloy_Effective_Restoration_of_Source_Knowledge_in_Continual_Test_Time_Adaptation_WACV_2024_paper.html)]  
+(**WACV 24**) pSTarC: Pseudo Source Guided Target Clustering for Fully Test-Time Adaptation [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Sreenivas_pSTarC_Pseudo_Source_Guided_Target_Clustering_for_Fully_Test-Time_Adaptation_WACV_2024_paper.pdf)]  
+(**WACV 24**) Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Park_Layer-Wise_Auto-Weighting_for_Non-Stationary_Test-Time_Adaptation_WACV_2024_paper.html)][[code](https://github.com/junia3/LayerwiseTTA)]  
+(**WACV 24**) Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting,
+and Prior Correction [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Marsden_Universal_Test-Time_Adaptation_Through_Weight_Ensembling_Diversity_Weighting_and_Prior_WACV_2024_paper.pdf)][[code](https://github.com/mariodoebler/test-time-adaptation)]
+
+
+(**ICLR 24**) Active Test-Time Adaptation: Theoretical Analyses and An Algorithm [[paper](https://openreview.net/pdf?id=YHUGlwTzFB)]  
+
+(**AAAI 24**) Towards Real-World Test-Time Adaptation: Tri-Net Self-Training with Balanced Normalization[[paper](https://arxiv.org/pdf/2309.14949.pdf)][[code](https://github.com/Gorilla-Lab-SCUT/TRIBE)]
+
+
+
 ## 2023
 
 (**CVPR 23**) EcoTTA: Memory-Efficient Continual Test-Time Adaptation via Self-Distilled Regularization  [[paper](https://arxiv.org/pdf/2303.01904.pdf)][[code](https://github.com/Lily-Le/EcoTTA)]  
 (**CVPR 23**) A Probabilistic Framework for Lifelong Test-Time Adaptation  [[paper](https://arxiv.org/pdf/2212.09713.pdf)][[code](https://github.com/dhanajitb/petal)]  
 (**CVPR 23**) Robust Mean Teacher for Continual and Gradual Test-Time Adaptation  [[paper](https://arxiv.org/pdf/2211.13081.pdf)][[code](https://github.com/mariodoebler/test-time-adaptation)]  
+(**CVPR 23**) TeSLA: Test-Time Self-Learning With Automatic Adversarial Augmentation  [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tomar_TeSLA_Test-Time_Self-Learning_With_Automatic_Adversarial_Augmentation_CVPR_2023_paper.pdf)][[code](https://github.com/devavratTomar/TeSLA)]
+
 
 (**AAAI 23**) Decorate the Newcomers:Visual Domain Prompt for Continual Test Time Adaptation  [[paper](https://arxiv.org/pdf/2212.04145.pdf)]   
 
