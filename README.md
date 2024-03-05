@@ -7,7 +7,7 @@
 (**WACV 24**) Continual Test-time Domain Adaptation via Dynamic Sample Selection [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Continual_Test-Time_Domain_Adaptation_via_Dynamic_Sample_Selection_WACV_2024_paper.pdf)]  
 (**WACV 24**) Effective Restoration of Source Knowledge in Continual Test Time Adaptation [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Niloy_Effective_Restoration_of_Source_Knowledge_in_Continual_Test_Time_Adaptation_WACV_2024_paper.html)]  
 <!-- (**WACV 24**) pSTarC: Pseudo Source Guided Target Clustering for Fully Test-Time Adaptation [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Sreenivas_pSTarC_Pseudo_Source_Guided_Target_Clustering_for_Fully_Test-Time_Adaptation_WACV_2024_paper.pdf)]  -->
-<!-- (**WACV 24**) Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Park_Layer-Wise_Auto-Weighting_for_Non-Stationary_Test-Time_Adaptation_WACV_2024_paper.html)][[code] -->(https://github.com/junia3/LayerwiseTTA)]  
+<!-- (**WACV 24**) Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Park_Layer-Wise_Auto-Weighting_for_Non-Stationary_Test-Time_Adaptation_WACV_2024_paper.html)][[code](https://github.com/junia3/LayerwiseTTA)]  -->
 <!-- (**WACV 24**) Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting,
 and Prior Correction [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Marsden_Universal_Test-Time_Adaptation_Through_Weight_Ensembling_Diversity_Weighting_and_Prior_WACV_2024_paper.pdf)][[code](https://github.com/mariodoebler/test-time-adaptation)] -->
 
