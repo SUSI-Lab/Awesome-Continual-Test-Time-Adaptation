@@ -3,6 +3,9 @@
 
 
 ## 2024
+(**CVPR 24**) Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation   [[paper](https://arxiv.org/pdf/2312.12480.pdf)]  
+(**CVPR 24**) Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation [[paper](https://arxiv.org/pdf/2311.18363.pdf)][[code](https://github.com/Chen-Ziyang/VPTTA)]  
+(**CVPR 24**) Capture Now and Embrace Future: A Versatile Framework for Continual Test-Time Domain Adaptation
 
 (**WACV 24**) Continual Test-time Domain Adaptation via Dynamic Sample Selection [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Continual_Test-Time_Domain_Adaptation_via_Dynamic_Sample_Selection_WACV_2024_paper.pdf)]  
 (**WACV 24**) Effective Restoration of Source Knowledge in Continual Test Time Adaptation [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Niloy_Effective_Restoration_of_Source_Knowledge_in_Continual_Test_Time_Adaptation_WACV_2024_paper.html)]  
