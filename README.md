@@ -3,6 +3,14 @@
 
 
 ## 2024
+
+(**Arxiv 24**) Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation [[paper](https://arxiv.org/pdf/2405.16486)][[code](https://github.com/RoyZry98/MoASE-Pytorch)]  \
+(**Arxiv 24**) Variational Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2402.08182)] \
+(**Arxiv 24**) Controllable Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2405.14602)][[code](https://github.com/RenshengJi/C-CoTTA)]  \
+(**Arxiv 24**) Mitigating the Bias in the Model for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2403.01344)]
+
+
+
 (**CVPR 24**) Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation   [[paper](https://arxiv.org/pdf/2312.12480.pdf)]  
 (**CVPR 24**) Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation [[paper](https://arxiv.org/pdf/2311.18363.pdf)][[code](https://github.com/Chen-Ziyang/VPTTA)]  
 (**CVPR 24**) Capture Now and Embrace Future: A Versatile Framework for Continual Test-Time Domain Adaptation
