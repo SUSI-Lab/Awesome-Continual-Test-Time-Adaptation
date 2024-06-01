@@ -10,6 +10,8 @@
 (**Arxiv 24**) Mitigating the Bias in the Model for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2403.01344)]
 
 
+(**ICML 24**) BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation [[paper](https://arxiv.org/pdf/2402.08712)][[code](https://github.com/daeunni/becotta)]  \
+
 
 (**CVPR 24**) Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation   [[paper](https://arxiv.org/pdf/2312.12480.pdf)]  
 (**CVPR 24**) Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation [[paper](https://arxiv.org/pdf/2311.18363.pdf)][[code](https://github.com/Chen-Ziyang/VPTTA)]  
