@@ -8,6 +8,7 @@
 (**Arxiv 24**) Variational Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2402.08182)] \
 (**Arxiv 24**) Controllable Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2405.14602)][[code](https://github.com/RenshengJi/C-CoTTA)]  \
 (**Arxiv 24**) Mitigating the Bias in the Model for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2403.01344)]
+(**Arxiv 24**) Less is More: Pseudo-Label Filtering for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2406.02609)]
 
 
 (**ICML 24**) BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation [[paper](https://arxiv.org/pdf/2402.08712)][[code](https://github.com/daeunni/becotta)]  \
