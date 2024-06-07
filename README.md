@@ -11,7 +11,7 @@
 (**Arxiv 24**) Less is More: Pseudo-Label Filtering for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2406.02609)]
 
 
-(**ICML 24**) BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation [[paper](https://arxiv.org/pdf/2402.08712)][[code](https://github.com/daeunni/becotta)]  \
+(**ICML 24**) BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation [[paper](https://arxiv.org/pdf/2402.08712)][[code](https://github.com/daeunni/becotta)]  
 
 
 (**CVPR 24**) Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation   [[paper](https://arxiv.org/pdf/2312.12480.pdf)]  
