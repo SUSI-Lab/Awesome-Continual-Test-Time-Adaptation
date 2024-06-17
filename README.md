@@ -17,7 +17,7 @@
 (**CVPR 24**) Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2312.12480.pdf)] \
 (**CVPR 24**) Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation [[paper](https://arxiv.org/pdf/2311.18363.pdf)][[code](https://github.com/Chen-Ziyang/VPTTA)] \
 (**CVPR 24**) A Versatile Framework for Continual Test-Time Domain Adaptation: Balancing Discriminability and Generalizability \
-(**CVPR 24**) What, How, and When Should Object Detectors Update in Continually Changing Test Domains? \
+(**CVPR 24**) What, How, and When Should Object Detectors Update in Continually Changing Test Domains? 
 
 
 
