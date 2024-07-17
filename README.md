@@ -7,11 +7,19 @@
 (**Arxiv 24**) Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation [[paper](https://arxiv.org/pdf/2405.16486)][[code](https://github.com/RoyZry98/MoASE-Pytorch)]  \
 (**Arxiv 24**) Variational Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2402.08182)] \
 (**Arxiv 24**) Controllable Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2405.14602)][[code](https://github.com/RenshengJi/C-CoTTA)]  \
-(**Arxiv 24**) Mitigating the Bias in the Model for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2403.01344)]  \
-(**Arxiv 24**) Less is More: Pseudo-Label Filtering for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2406.02609)]
+(**Arxiv 24**) Mitigating the Bias in the Model for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2403.01344)] \
+(**Arxiv 24**) Less is More: Pseudo-Label Filtering for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2406.02609)] \
+(**Arxiv 24**) Parameter-Selective Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2407.02253)][[code](https://github.com/JiaxuTian/PSMT)] \
+(**Arxiv 24**) Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments [[paper](https://arxiv.org/pdf/2406.16439)] \
+(**Arxiv 24**) Continual Test-time Adaptation for End-to-end Speech Recognition on Noisy Speech [[paper](https://arxiv.org/pdf/2406.11064)] \
+(**Arxiv 24**) Dynamic Domains, Dynamic Solutions: DPCore for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2406.10737)][[code](https://github.com/zybeich/DPCore)] \  
+(**Arxiv 24**) Continuous Test-time Domain Adaptation for Efficient Fault Detection under Evolving Operating Conditions [[paper](https://arxiv.org/pdf/2406.06607)] \
 
 
-(**ICML 24**) BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation [[paper](https://arxiv.org/pdf/2402.08712)][[code](https://github.com/daeunni/becotta)]  
+(**ECCV 24**) Reshaping the Online Data Buffering and Organizing Mechanism for Continual Test-Time Adaptation[[paper](https://arxiv.org/pdf/2407.09367)][[code](https://github.com/z1358/OBAO)] \
+
+
+(**ICML 24**) BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation [[paper](https://arxiv.org/pdf/2402.08712)][[code](https://github.com/daeunni/becotta)] \
 
 
 (**CVPR 24**) Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2312.12480.pdf)] \
