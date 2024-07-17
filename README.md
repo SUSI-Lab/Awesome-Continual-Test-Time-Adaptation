@@ -12,7 +12,7 @@
 (**Arxiv 24**) Parameter-Selective Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2407.02253)][[code](https://github.com/JiaxuTian/PSMT)] \
 (**Arxiv 24**) Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments [[paper](https://arxiv.org/pdf/2406.16439)] \
 (**Arxiv 24**) Continual Test-time Adaptation for End-to-end Speech Recognition on Noisy Speech [[paper](https://arxiv.org/pdf/2406.11064)] \
-(**Arxiv 24**) Dynamic Domains, Dynamic Solutions: DPCore for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2406.10737)][[code](https://github.com/zybeich/DPCore)] 
+(**Arxiv 24**) Dynamic Domains, Dynamic Solutions: DPCore for Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2406.10737)][[code](https://github.com/zybeich/DPCore)] \
 (**Arxiv 24**) Continuous Test-time Domain Adaptation for Efficient Fault Detection under Evolving Operating Conditions [[paper](https://arxiv.org/pdf/2406.06607)] 
 
 
