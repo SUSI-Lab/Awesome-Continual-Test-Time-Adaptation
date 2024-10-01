@@ -52,7 +52,7 @@
 (**CVPR 23**) Robust Mean Teacher for Continual and Gradual Test-Time Adaptation  [[paper](https://arxiv.org/pdf/2211.13081.pdf)][[code](https://github.com/mariodoebler/test-time-adaptation)]  
 (**CVPR 23**) TeSLA: Test-Time Self-Learning With Automatic Adversarial Augmentation  [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tomar_TeSLA_Test-Time_Self-Learning_With_Automatic_Adversarial_Augmentation_CVPR_2023_paper.pdf)][[code](https://github.com/devavratTomar/TeSLA)]
 
-(**ICCV 23**) Towards Open-Set Test-Time Adaptation Utilizing the Wisdom of Crowds in Entropy Minimization  [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Towards_Open-Set_Test-Time_Adaptation_Utilizing_the_Wisdom_of_Crowds_in_ICCV_2023_paper.pdf)] 
+(**ICCV 23**) Towards Open-Set Test-Time Adaptation Utilizing the Wisdom of Crowds in Entropy Minimization  [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Towards_Open-Set_Test-Time_Adaptation_Utilizing_the_Wisdom_of_Crowds_in_ICCV_2023_paper.pdf)] \
 (**ICCV 23**)  Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Hatem_Point-TTA_Test-Time_Adaptation_for_Point_Cloud_Registration_Using_Multitask_Meta-Auxiliary_ICCV_2023_paper.pdf)] 
 
 (**AAAI 23**) Decorate the Newcomers:Visual Domain Prompt for Continual Test Time Adaptation  [[paper](https://arxiv.org/pdf/2212.04145.pdf)]   
