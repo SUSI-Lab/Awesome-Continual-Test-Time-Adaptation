@@ -52,10 +52,13 @@
 (**CVPR 23**) Robust Mean Teacher for Continual and Gradual Test-Time Adaptation  [[paper](https://arxiv.org/pdf/2211.13081.pdf)][[code](https://github.com/mariodoebler/test-time-adaptation)]  
 (**CVPR 23**) TeSLA: Test-Time Self-Learning With Automatic Adversarial Augmentation  [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tomar_TeSLA_Test-Time_Self-Learning_With_Automatic_Adversarial_Augmentation_CVPR_2023_paper.pdf)][[code](https://github.com/devavratTomar/TeSLA)]
 
+(**ICCV 23**) Towards Open-Set Test-Time Adaptation Utilizing the Wisdom of Crowds in Entropy Minimization  [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Towards_Open-Set_Test-Time_Adaptation_Utilizing_the_Wisdom_of_Crowds_in_ICCV_2023_paper.pdf)]   
 
 (**AAAI 23**) Decorate the Newcomers:Visual Domain Prompt for Continual Test Time Adaptation  [[paper](https://arxiv.org/pdf/2212.04145.pdf)]   
 
 (**IJCAI 23**) Exploring Safety Supervision for Continual Test-time Domain Adaptation  [[paper](https://www.ijcai.org/proceedings/2023/0183.pdf)]  
+
+
  
 (**ArXiv 23**) Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation  [[paper](https://arxiv.org/pdf/2303.10457.pdf)]  
 (**ArXiv 23**) ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation  [[paper](https://arxiv.org/pdf/2306.04344.pdf)][[code](https://github.com/Yangsenqiao/vida)]  
