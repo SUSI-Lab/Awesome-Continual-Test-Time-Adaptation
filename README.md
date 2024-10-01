@@ -3,7 +3,7 @@
 
 
 ## 2024
-
+(**Arxiv 24**) Hybrid-TTA: Continual Test-time Adaptation via Dynamic Domain Shift Detection [[paper](https://arxiv.org/pdf/2409.08566)][[code](https://sites.google.com/view/hybrid-tta/)]  \
 (**Arxiv 24**) Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation [[paper](https://arxiv.org/pdf/2405.16486)][[code](https://github.com/RoyZry98/MoASE-Pytorch)]  \
 (**Arxiv 24**) Variational Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2402.08182)] \
 (**Arxiv 24**) Controllable Continual Test-Time Adaptation [[paper](https://arxiv.org/pdf/2405.14602)][[code](https://github.com/RenshengJi/C-CoTTA)]  \
