@@ -39,7 +39,7 @@
 
 
 
-
+(**AAAI 24**) Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization[[paper](https://arxiv.org/pdf/2312.10165)][[code](https://github.com/ynanwu/MABN)] \
 (**AAAI 24**) Towards Real-World Test-Time Adaptation: Tri-Net Self-Training with Balanced Normalization[[paper](https://arxiv.org/pdf/2309.14949.pdf)][[code](https://github.com/Gorilla-Lab-SCUT/TRIBE)] \
 (**AAAI 24**) Exploring Sparse Visual Prompt for Domain Adaptive Dense Prediction[[paper](https://arxiv.org/pdf/2303.09792)][[code](https://github.com/Anonymous-012/SVDP)]
 
